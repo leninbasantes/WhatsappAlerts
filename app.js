@@ -1,6 +1,5 @@
 'use strict'
 
-const cors = require('cors');
 const express = require('express');
 const bodyParser = require('body-parser');
 
@@ -22,7 +21,6 @@ app.use((req, res, next)=>{
     next();
 });
 
-app.use(cors());
 
 app.use('',rest_route);
 
