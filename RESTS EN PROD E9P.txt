@@ -1,0 +1,7 @@
+Rest creados:
+En BDDT de producci�n en http sites-available
+PUERTO ASIGNADO: 60002
+En pm2 se llama .
+
+POST MENSAJES
+http://iot-api.constecoin.com/api/E9P/saveDataE9P

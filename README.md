@@ -1,2 +1,1 @@
 # WhatsappAlerts
-Code Notification Alerts
